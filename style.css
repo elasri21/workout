@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+body {
+    background-color: #090808;
+}
+@media (min-width: 1200px) {
+    .container {
+        margin: 0 100px !important;
+    }
+}
+@media (min-width: 922px) and (max-width: 1199px) {
+    .container {
+        margin: 0 80px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 921px) {
+    .container {
+        margin: 0 50px !important;
+    }
+}
+.container {
+    margin: 0 30px;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+header .container .logo i {
+    font-size: 30px;
+    color: #fff;
+}
+header .container .date {
+    font-size: 30px;
+    color: #fff;
+}
+
+header .container .date {
+    display: flex;
+    gap: 5px;
+}
+header .container .date span {
+    display: block;
+    padding: 7px 15px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+}
+@media (max-width: 767px) {
+    section {
+        height: auto !important;
+        padding-bottom: 50px;
+    }
+}
+section {
+    height: calc(100vh - 83px);
+    background-image: url("./bg.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+section::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .4);
+}
+section .container {
+    position: relative;
+    padding-top: 20px;
+}
+section .container .workout-names {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px 0;
+}
+section .container .workout-names span {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: .3s linear;
+    border: 2px solid #fff;
+}
+section .container .workout-names span:hover,
+section .container .workout-names span.active
+ {
+    border-color: #000;
+    background-color: #fff;
+    color: #000;
+}
+@media (max-width: 767px) {
+    section .container .field-area {
+        flex-wrap: wrap;
+    }
+    section .container .field-area .el {
+        width: 100%;
+    }
+}
+section .container .field-area {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 30px;
+}
+section .container .field-area .el {
+    display: block;
+    border: 2px solid #fff;
+    border-radius: 4px;
+    outline: none;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #000;
+    color: #fff;
+    transition: .3s linear;
+}
+section .container .field-area  input {
+    font-weight: 400;
+}
+section .container .field-area  input:focus::placeholder {
+    opacity: 0;
+}
+section .container .field-area  button {
+    cursor: pointer;
+}
+section .container .field-area  button:hover {
+    border-color: #000;
+    background-color: #fff;
+    color: #000;
+}
+
+section .container .workouts {
+    margin-top: 30px;
+}
+section .container .workouts h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+section .container .workouts .exercices {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+section .container .workouts .holder {
+    padding: 10px 20px;
+}
+
+section .container .workouts .holder p {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.sugesion {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 75%;
+    overflow: scroll;
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+}
+/* scrolling*/
+.sugesion::-webkit-scrollbar {
+    width: 10px;
+}
+.sugesion::-webkit-scrollbar-track {
+    background-color: #999;
+}
+.sugesion::-webkit-scrollbar-corner{
+    background-color: #222;
+}
+.sugesion::-webkit-scrollbar-thumb {
+    background-color: #000;
+    border-radius: 0;
+}
+.sugesion::-webkit-scrollbar-thumb:hover {
+    background-color: #444;
+}
+
+
+/* scrolling */
+
+
+
+.sugesion h2 {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #090808;
+    margin-bottom: 10px;
+}
+.sugesion i {
+    font-size: 25px;
+    color: #000;
+    cursor: pointer;
+    position: fixed;
+    top: 15px;
+    right: 40px;
+    animation: pop 2s linear infinite;
+}
+.sugesion > div {
+    margin-bottom: 20px;
+}
+.sugesion > div h3 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.sugesion > div a {
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: #000;
+    transition: .3s linear;
+}
+.sugesion > div a:not(:last-of-type) {
+    margin-right: 20px;
+}
+.sugesion > div a:hover {
+    color: rgba(9, 8, 8, .5);
+}
+@keyframes pop {
+    50% {
+        font-size: 40px;
+        color: #f02929;
+    }
+}
+
+
+footer {
+    padding: 20px 0;
+}
+footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+footer .container .logo i {
+    color: #fff;
+    font-size: 30px;
+}
+footer .container .links {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+footer .container .links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    transition: .3s linear;
+}
+footer .container .links a i {
+    color: #fff;
+    transition: .3s linear;
+}
+footer .container .links a:hover {
+    background-color: #fff;
+}
+footer .container .links a:hover i {
+    color: #000;
+}
+

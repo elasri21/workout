@@ -1,0 +1,76 @@
+{
+"chest": [
+    ["Bench Press (Barbell or Dumbbell)", "https://www.youtube.com/watch?v=rT7DgCr-3pg&pp=ygULYmVuY2ggcHJlc3M%3D"],
+    ["Push-Ups", "https://www.youtube.com/watch?v=IODxDxX7oi4&pp=ygUIcHVzaC11cHM%3D"],
+    ["Chest Flyes (Dumbbell or Machine)", "https://www.youtube.com/watch?v=eozdVDA78K0&pp=ygUgQ2hlc3QgRmx5ZXMgKER1bWJiZWxsIG9yIE1hY2hpbmU%3D"],
+    ["Incline Bench Press", "https://www.youtube.com/watch?v=DbFgADa2PL8&pp=ygUTSW5jbGluZSBCZW5jaCBQcmVzcw%3D%3D"],
+    ["Decline Push-Ups", "https://www.youtube.com/watch?v=SKPab2YC8BE&pp=ygUQRGVjbGluZSBQdXNoLVVwcw%3D%3D"],
+    ["Cable Chest Press", "https://www.youtube.com/watch?v=Iwe6AmxVf7o&pp=ygURQ2FibGUgQ2hlc3QgUHJlc3M%3D"]
+],
+"back": [
+    ["Pull-Ups/Chin-Ups", "https://www.youtube.com/watch?v=YVi8tlbOTCU&pp=ygURUHVsbC1VcHMvQ2hpbi1VcHM%3D"],
+    ["Bent-Over Rows (Barbell or Dumbbell)", "https://www.youtube.com/watch?v=OvqWkEfxMyE&pp=ygUkQmVudC1PdmVyIFJvd3MgKEJhcmJlbGwgb3IgRHVtYmJlbGwp"],
+    ["Deadlifts (Conventional or Sumo)", "https://www.youtube.com/watch?v=JMo-rvbsQEU&pp=ygUgRGVhZGxpZnRzIChDb252ZW50aW9uYWwgb3IgU3Vtbyk%3D"],
+    ["Lat Pulldowns", "https://www.youtube.com/watch?v=X5n55mMqSUs&pp=ygUNTGF0IFB1bGxkb3ducw%3D%3D"],
+    ["T-Bar Rows", "https://www.youtube.com/watch?v=j3Igk5nyZE4&pp=ygUKVC1CYXIgUm93cw%3D%3D"],
+    ["Seated Cable Rows", "https://www.youtube.com/watch?v=UCXxvVItLoM&pp=ygURU2VhdGVkIENhYmxlIFJvd3M%3D"]
+],
+"shoulders": [
+    ["Overhead Shoulder Press (Barbell or Dumbbell)", "https://www.youtube.com/watch?v=qEwKCR5JCog&pp=ygUtT3ZlcmhlYWQgU2hvdWxkZXIgUHJlc3MgKEJhcmJlbGwgb3IgRHVtYmJlbGwp"],
+    ["Lateral Raises", "https://www.youtube.com/watch?v=g_7iXXBrCkY&pp=ygUOTGF0ZXJhbCBSYWlzZXM%3D"],
+    ["Front Raises", "https://www.youtube.com/watch?v=gzDawZwDC6Y&pp=ygUVZnJvbnQgcmFpc2VzIGR1bWJiZWxs"],
+    ["Upright Rows", "https://www.youtube.com/watch?v=jaAV-rD45I0&pp=ygUMVXByaWdodCBSb3dz"],
+    ["Face Pulls", "https://www.youtube.com/watch?v=Wz6Ir0g5h1U&pp=ygUKRmFjZSBQdWxscw%3D%3D"],
+    ["Shrugs", "https://www.youtube.com/watch?v=cJRVVxmytaM&pp=ygUGc2hydWdz"]
+],
+"legs": [
+    ["Squats (Back Squats, Front Squats, Goblet Squats)", "https://www.youtube.com/watch?v=l-Lynp4VoV4&pp=ygUxU3F1YXRzIChCYWNrIFNxdWF0cywgRnJvbnQgU3F1YXRzLCBHb2JsZXQgU3F1YXRzKQ%3D%3D"],
+    ["Lunges (Walking Lunges, Reverse Lunges)", "https://www.youtube.com/watch?v=I34ysEkPK7w&pp=ygUnTHVuZ2VzIChXYWxraW5nIEx1bmdlcywgUmV2ZXJzZSBMdW5nZXMp"],
+    ["Deadlifts", "https://www.youtube.com/watch?v=r4MzxtBKyNE&pp=ygUJZGVhZGxpZnRz"],
+    ["Leg Press", "https://www.youtube.com/watch?v=oujca3_Shgw&pp=ygUJTGVnIFByZXNz"],
+    ["Leg Extensions", "https://www.youtube.com/watch?v=4ZDm5EbiFI8&pp=ygUOTGVnIEV4dGVuc2lvbnM%3D"],
+    ["Hamstring Curls", "https://www.youtube.com/watch?v=1Tq3QdYUuHs&pp=ygUPSGFtc3RyaW5nIEN1cmxz"],
+    ["Calf Raises", "https://www.youtube.com/watch?v=YMmgqO8Jo-k&pp=ygULQ2FsZiBSYWlzZXM%3D"]
+],
+"biceps": [
+    ["Barbell Curl", "https://www.youtube.com/watch?v=QZEqB6wUPxQ&pp=ygUMQmFyYmVsbCBDdXJs"],
+    ["Dumbbell Curl", "https://www.youtube.com/watch?v=BsULGO70tcU&pp=ygUNRHVtYmJlbGwgQ3VybA%3D%3D"],
+    ["Preacher Curl", "https://www.youtube.com/watch?v=Gydpcouclx8&pp=ygUNUHJlYWNoZXIgQ3VybA%3D%3D"],
+    ["Hammer Curl", "https://www.youtube.com/watch?v=zC3nLlEvin4&pp=ygULSGFtbWVyIEN1cmw%3D"],
+    ["Concentration Curl", "https://www.youtube.com/watch?v=Jvj2wV0vOYU&pp=ygUSQ29uY2VudHJhdGlvbiBDdXJs"],
+    ["Cable Curl", "https://www.youtube.com/watch?v=AsAVbj7puKo&pp=ygUKQ2FibGUgQ3VybA%3D%3D"],
+    ["Chin-Up", "https://www.youtube.com/watch?v=_71FpEaq-fQ&pp=ygUHQ2hpbi1VcA%3D%3D"],
+    ["Incline Dumbbell Curl", "https://www.youtube.com/watch?v=NHUVgJJ3MBA&pp=ygUVSW5jbGluZSBEdW1iYmVsbCBDdXJs"],
+    ["Zottman Curl", "https://www.youtube.com/watch?v=zO3cJwgEaww&pp=ygUMWm90dG1hbiBDdXJs"],
+    ["21s: 7x3", "https://www.youtube.com/watch?v=1DaakAh5vkk&pp=ygUOMjFzIGJpY2VwIGN1cmw%3D"]
+],
+"triceps": [
+    ["Tricep Dips", "https://www.youtube.com/watch?v=flmMqsi3rl0&pp=ygULVHJpY2VwIERpcHM%3D"],
+    ["Close-Grip Bench Press", "https://www.youtube.com/watch?v=wxVRe9pmJdk&pp=ygUWQ2xvc2UtR3JpcCBCZW5jaCBQcmVzcw%3D%3D"],
+    ["Tricep Pushdowns", "https://www.youtube.com/watch?v=2-LAMcpzODU&pp=ygUQVHJpY2VwIFB1c2hkb3ducw%3D%3D"],
+    ["Skull Crushers (Lying Tricep Extensions)", "https://www.youtube.com/watch?v=d_KZxkY_0cM&pp=ygUoU2t1bGwgQ3J1c2hlcnMgKEx5aW5nIFRyaWNlcCBFeHRlbnNpb25zKQ%3D%3D"],
+    ["Overhead Tricep Extension", "https://www.youtube.com/watch?v=kDbUNTX-Xts&pp=ygUZT3ZlcmhlYWQgVHJpY2VwIEV4dGVuc2lvbg%3D%3D"],
+    ["Tricep Kickbacks", "https://www.youtube.com/watch?v=6SS6K3lAwZ8&pp=ygUQVHJpY2VwIEtpY2tiYWNrcw%3D%3D"],
+    ["Diamond Push-Ups", "https://www.youtube.com/watch?v=J0DnG1_S92I&pp=ygUQRGlhbW9uZCBQdXNoLVVwcw%3D%3D"],
+    ["Close-Grip Push-Ups", "https://www.youtube.com/watch?v=aWixj7ey758&pp=ygUTQ2xvc2UtR3JpcCBQdXNoLVVwcw%3D%3D"],
+    ["Dumbbell Tricep Extensions", "https://www.youtube.com/watch?v=MO_03opCc0g&pp=ygUaRHVtYmJlbGwgVHJpY2VwIEV4dGVuc2lvbnM%3D"],
+    ["Cable Overhead Tricep Extension", "https://www.youtube.com/watch?v=1u18yJELsh0&pp=ygUfQ2FibGUgT3ZlcmhlYWQgVHJpY2VwIEV4dGVuc2lvbg%3D%3D"],
+    ["Bench Dips", "https://www.youtube.com/watch?v=c3ZGl4pAwZ4&pp=ygUKQmVuY2ggRGlwcw%3D%3D"],
+    ["Tricep Rope Pushdowns", "https://www.youtube.com/watch?v=-xa-6cQaZKY&pp=ygUVVHJpY2VwIFJvcGUgUHVzaGRvd25z"],
+    ["Reverse Grip Tricep Pushdowns", "https://www.youtube.com/watch?v=jJ5Q9fL-xdk&pp=ygUdUmV2ZXJzZSBHcmlwIFRyaWNlcCBQdXNoZG93bnM%3D"],
+    ["Single-Arm Overhead Tricep Extension", "https://www.youtube.com/watch?v=FE_AsjcTImc"]
+],
+"core": [
+   [ "Planks", "https://www.youtube.com/watch?v=pSHjTRCQxIw&pp=ygUGUGxhbmtz"],
+   ["RussianTwists", "https://www.youtube.com/watch?v=KJbMeSAAZVI&pp=ygUNUnVzc2lhblR3aXN0cw%3D%3D"],
+   ["Bicycle Crunches", "https://www.youtube.com/watch?v=1we3bh9uhqY&pp=ygUQQmljeWNsZSBDcnVuY2hlcw%3D%3D"],
+   ["Leg Raises", "https://www.youtube.com/watch?v=2TGtifSl9Xg&pp=ygUKTGVnIFJhaXNlcw%3D%3D"],
+   ["Sit-Ups/Crunches", "https://www.youtube.com/watch?v=pyKYvMNPnQI&pp=ygUQU2l0LVVwcy9DcnVuY2hlcw%3D%3D"],
+   ["Woodchoppers", "https://www.youtube.com/watch?v=DoACGlPyQTI&pp=ygUMV29vZGNob3BwZXJz"]
+],
+"cardio": [
+    ["Running/Jogging", "https://www.youtube.com/watch?v=Gty7rFrsnBg&pp=ygUPUnVubmluZy9Kb2dnaW5n"],
+    ["Cycling", "https://www.youtube.com/watch?v=Jig4MXZyuT0&pp=ygUSQ3ljbGluZyBhdCB0aGUgZ3lt"],
+    ["Jump Rope", "https://www.youtube.com/watch?v=9U-GnZBQVYg&pp=ygUJSnVtcCBSb3Bl"]
+]
+}
